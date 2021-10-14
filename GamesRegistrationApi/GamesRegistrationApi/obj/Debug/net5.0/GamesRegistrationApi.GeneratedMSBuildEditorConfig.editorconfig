@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = GamesRegistrationApi
-build_property.ProjectDir = E:\Everis\GamesRegistrationApi\GamesRegistrationApi\
+build_property.ProjectDir = D:\MyCodingEnvironment\Repositories\GameCatalogueApi\GamesRegistrationApi\GamesRegistrationApi\

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "flZMuIgiJSEbQuvDHjQx11DLzl4lXOwpj0thY7buQoDmR/JR8CVeeZDK/v5Y1g9c79sD4age8MAhxXyh0wQ8bw==",
+  "dgSpecHash": "OoEB9Rq//e3dVFcVTfjcvVUQiWc3rYttQdu8/IhyOrdy3gv/1qh6WlCEIh3wz124l1h+Sh8BBRmeeKzMbN2XDw==",
   "success": true,
-  "projectFilePath": "E:\\Everis\\GamesRegistrationApi\\GamesRegistrationApi\\GamesRegistrationApi.csproj",
+  "projectFilePath": "D:\\MyCodingEnvironment\\Repositories\\GameCatalogueApi\\GamesRegistrationApi\\GamesRegistrationApi\\GamesRegistrationApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lqfme\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\lqfme\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
