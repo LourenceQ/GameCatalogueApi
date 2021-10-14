@@ -67,5 +67,5 @@ D:\MyCodingEnvironment\Repositories\GameCatalogueApi\GamesRegistrationApi\GamesR
 D:\MyCodingEnvironment\Repositories\GameCatalogueApi\GamesRegistrationApi\GamesRegistrationApi\obj\Debug\net5.0\staticwebassets\GamesRegistrationApi.StaticWebAssets.xml
 D:\MyCodingEnvironment\Repositories\GameCatalogueApi\GamesRegistrationApi\GamesRegistrationApi\obj\Debug\net5.0\scopedcss\bundle\GamesRegistrationApi.styles.css
 D:\MyCodingEnvironment\Repositories\GameCatalogueApi\GamesRegistrationApi\GamesRegistrationApi\obj\Debug\net5.0\GamesRegistrationApi.RazorTargetAssemblyInfo.cache
-D:\MyCodingEnvironment\Repositories\GameCatalogueApi\GamesRegistrationApi\GamesRegistrationApi\obj\Debug\net5.0\GamesRegistrationApi.csproj.CopyComplete
 D:\MyCodingEnvironment\Repositories\GameCatalogueApi\GamesRegistrationApi\GamesRegistrationApi\obj\Debug\net5.0\GamesRegistrationApi.genruntimeconfig.cache
+D:\MyCodingEnvironment\Repositories\GameCatalogueApi\GamesRegistrationApi\GamesRegistrationApi\bin\Debug\net5.0\GamesRegistrationApi.xml

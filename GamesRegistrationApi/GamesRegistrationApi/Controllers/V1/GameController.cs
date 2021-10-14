@@ -23,6 +23,18 @@ namespace GamesRegistrationApi.Controllers.V1
             _gameService = gameService;
         }
 
+
+        /// <summary>
+        /// Buscar todos os jogos de forma paginada
+        /// </summary>
+        /// <remarks>
+        /// Não é possivel retornar os jogos sem paginação
+        /// </remarks>
+        /// <param name="page"> indica qual página está sendo consultada. Mínimo 1</param>
+        /// <param name="quantity">Indica a quantidade de registros por página. Mínimo 1 e máximo 50</param>
+        /// <response code="200">Retorna a lista de jogos</response>
+        /// <response code="204">Caso não haja jogos</response>
+        /// <returns></returns>
         [HttpGet]
         public async Task<ActionResult<IEnumerable<GameViewModel>>> Get([FromQuery, Range(1, int.MaxValue)] int page = 1, [FromQuery, Range(1, 50)] int quantity = 5)
         {
@@ -34,7 +46,13 @@ namespace GamesRegistrationApi.Controllers.V1
             return Ok(games);
         }
 
-
+        /// <summary>
+        /// Buscar jogo pelo seu Id
+        /// </summary>
+        /// <param name="idGame">Id do jogo buscado</param>
+        /// <response code="200">Retorna o jogo filtrado</response>
+        /// <response code="204">Caso não haja jogo com este id</response>
+        /// <returns></returns>
         [HttpGet("{idGame:guid}")]
         public async Task<ActionResult<GameViewModel>> GetById([FromRoute] Guid idGame)
         {
